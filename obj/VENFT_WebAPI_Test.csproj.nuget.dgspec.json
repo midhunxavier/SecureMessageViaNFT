@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VENFT_API_TEST\\VENFT_WebAPI_Test\\VENFT_WebAPI_Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VENFT_API_TEST\\VENFT_WebAPI_Test\\VENFT_WebAPI_Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VENFT_API_TEST\\VENFT_WebAPI_Test\\VENFT_WebAPI_Test.csproj",
+        "projectName": "VENFT_WebAPI_Test",
+        "projectPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VENFT_API_TEST\\VENFT_WebAPI_Test\\VENFT_WebAPI_Test.csproj",
+        "packagesPath": "C:\\Users\\midhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VENFT_API_TEST\\VENFT_WebAPI_Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\midhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite\\VEDriversLite.csproj": {
+                "projectPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite\\VEDriversLite.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite.NeblioAPI\\VEDriversLite.NeblioAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite.NeblioAPI\\VEDriversLite.NeblioAPI.csproj",
+        "projectName": "VEDriversLite.NeblioAPI",
+        "projectPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite.NeblioAPI\\VEDriversLite.NeblioAPI.csproj",
+        "packagesPath": "C:\\Users\\midhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite.NeblioAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\midhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite\\VEDriversLite.csproj": {
+      "version": "0.2.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite\\VEDriversLite.csproj",
+        "projectName": "VEFramework.VEDriversLite",
+        "projectPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite\\VEDriversLite.csproj",
+        "packagesPath": "C:\\Users\\midhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\midhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite.NeblioAPI\\VEDriversLite.NeblioAPI.csproj": {
+                "projectPath": "C:\\Users\\midhu\\Desktop\\web 3\\VENFT_TEST\\VirtualEconomyFramework\\VirtualEconomyFramework\\VEDriversLite.NeblioAPI\\VEDriversLite.NeblioAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ipfs.Http.Client": {
+              "target": "Package",
+              "version": "[0.33.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.23, )"
+            },
+            "Microsoft.SourceLink.GitHub": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NBitcoin": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "NBitcoin.Altcoins": {
+              "target": "Package",
+              "version": "[3.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
